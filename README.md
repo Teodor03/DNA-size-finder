@@ -1,7 +1,7 @@
 # DNA-size-finder
 ## Overview
 DNA size finder is a lightweight Java application that automates the analysis of microscopic images of DNA fiber data. It provides an easy to use environment with many different modes for analysis. It was developed in the Institute of Molecular Biology of the Bulgarian Academy of Sciences.
-## How to setup for users
+## How to setup
 The application DNA size finder is easy to setup. The only requirement is that there is a **Java Version 14.02 or higher** installed on the computer. Java can be downloaded from here (Link to the latest Java to download):
 
 https://www.oracle.com/java/technologies/downloads/#jdk17-windows
