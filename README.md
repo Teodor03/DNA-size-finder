@@ -6,7 +6,7 @@ The application DNA size finder is easy to setup. The only requirement is that t
 
 https://www.java.com/en/download/manual.jsp
 
-After this step is complete the folder ReadyToUse needs to be downloaded. In this folder there is the jar file that can be launched and a settings folder where pre-created settings for the program to use are stored. DNASizeFinder creates folders where settings and data exporting is handled in the directory where it is located, so it is **recommended to keep the jar file in a separate folder**.
+After this step is complete the folder "DNASizeFinderAlpha21.1" needs to be downloaded. In this folder there is the jar file that can be launched and a settings folder where pre-created settings for the program to use are stored. DNASizeFinder creates folders where settings and data exporting is handled in the directory where it is located, so it is **recommended to keep the jar file in a separate folder**. In the folder "exampleImages" there are several microscopic images for testing the program.
 ## Cite us
 This project is currently published at the following link, where a detailed explanation is given, so when using our software please cite us:
 
