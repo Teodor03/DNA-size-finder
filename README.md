@@ -12,6 +12,6 @@ This project is currently published at the following link, where a detailed expl
 
 https://doi.org/10.1101/2021.12.29.474465
 ## Contact us:
-If you are having any questions about the software or want to report, you can send a email at the following address. Also we are currently working on including the bioformat libraries to open microscopic images. A version of the software with included bioformat libraries can be downloaded from the Bioformats branch. If you are having difficulties to open uncommon formats with the Bioformats version please send us an email with an explanation and files that you are trying to open.
+If you are having any questions about the software or want to give a feedback, you can send a email at the following address. Also we are currently working on including the bioformat libraries to open microscopic images. A version of the software with included bioformat libraries can be downloaded from the Bioformats branch. If you are having difficulties to open uncommon formats with the Bioformats version please send us an email with an explanation and files that you are trying to open, so we can improve our software.
 
 teokirilov@gmail.com
