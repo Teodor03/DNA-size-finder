@@ -1,6 +1,0 @@
-6
-standart
-5
-red
-green
-30.0
