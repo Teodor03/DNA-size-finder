@@ -11,8 +11,3 @@ After this step is complete the folder "DNASizeFinderAlpha21.1" needs to be down
 Currently in this branch is included the experimental feature of loading images with the BioFormats library:
 
 https://www.openmicroscopy.org/bio-formats/
-
-## Cite us
-This project is currently published at the following link, where a detailed explanation is given, so when using our software please cite us:
-
-https://doi.org/10.1101/2021.12.29.474465
