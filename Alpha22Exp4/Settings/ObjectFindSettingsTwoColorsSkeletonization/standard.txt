@@ -1,9 +1,0 @@
-14
-standard
-red
-green
-15
-30.0
-0.3
-6
-4
