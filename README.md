@@ -22,6 +22,6 @@ This project is currently published at the following link, where a detailed expl
 https://doi.org/10.1080/13102818.2023.2206488
 
 ## Contact us:
-If you are having any questions about the software or want to give a feedback, you can send a email at the following address.
+If you are having any questions about the software or want to give a feedback, you can send an email to the following address.
 
 teokirilov@gmail.com
